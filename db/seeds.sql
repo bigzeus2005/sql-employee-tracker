@@ -25,8 +25,8 @@ VALUES
   ('Randy', 'Savage', 2, 1),
   ('Kevin', 'Nash', 3, null),
   ('Rey', 'Mysterio', 4, 3),
-  ('Fred', 'Astair', 5, 6),
-  ('George', 'Kelly', 6, null),
+  ('George', 'Kelly', 5, null),
+  ('Fred', 'Astair', 6, 5),
   ('Jesus', 'Rosa', 7, null),
-  ('Mary', 'Smith', 8, 9),
+  ('Mary', 'Smith', 8, 5),
   ('Edgar', 'Martinez', 9, null);
