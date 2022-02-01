@@ -10,7 +10,7 @@ function init() {
   inquirer.prompt([
     {
       type: 'list',
-      message: 'Would you like to view or add?',
+      message: 'Would you like to view a table or add to a table?',
       choices: ['View', 'Add'],
       name: 'selection'
     },
